@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277248625863",
+    "project_id": "gabage-85d4c",
+    "storage_bucket": "gabage-85d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277248625863:android:9e572b35e6a0b7b47f42e2",
+        "android_client_info": {
+          "package_name": "com.example.maizeplant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnynS8yMaYxDpagRZbhJzJ4KnfzRCERXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277248625863:android:9322303dc8b77e4f7f42e2",
+        "android_client_info": {
+          "package_name": "com.example.suggestion_box"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnynS8yMaYxDpagRZbhJzJ4KnfzRCERXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
